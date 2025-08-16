@@ -1,5 +1,6 @@
 {
   "name": "@nicwolff/template-function-keychain-macos",
+  "displayName": "MacOS Keychain",
   "private": true,
   "version": "0.0.1",
   "description": "Yaak plugin for retrieving passwords from macOS keychain",
