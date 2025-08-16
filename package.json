@@ -9,5 +9,6 @@
   },
   "dependencies": {
     "keychain": "^1.5.0"
-  }
+  },
+  "repository": "https://github.com/nicwolff/template-function-keychain-macos"
 }
